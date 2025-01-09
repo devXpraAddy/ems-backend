@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Employee Management System (EMS)** is a Spring Boot application designed to manage employee data. It provides RESTful APIs for creating, retrieving, updating, and deleting employee records. The project uses Maven for dependency management and follows a layered architecture to separate concerns.
+The **Employee Management System (EMS)** is a Spring Boot application designed to manage employee data. It provides RESTful APIs for creating, retrieving, updating, and deleting employee records. T[...]
 
 ## Features
 
@@ -17,6 +17,7 @@ The **Employee Management System (EMS)** is a Spring Boot application designed t
 - **Java:** Programming language used for developing the application.
 - **Spring Boot:** Framework for building the RESTful APIs.
 - **Maven:** Dependency management and build automation tool.
+- **PostgreSQL:** Database for storing employee data.
 - **RESTful APIs:** Architecture style for designing networked applications.
 
 ## Getting Started
@@ -27,6 +28,7 @@ Ensure you have the following installed on your machine:
 
 - **Java 11** or higher
 - **Maven 3.6.0** or higher
+- **PostgreSQL** 
 
 ### Installation
 
